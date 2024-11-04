@@ -1,2 +1,2 @@
-# CogVideo-MultiControlNet
-This is the opensource code for CogVideo-MultiControlNet
+# CogVideoX-MultiControlNet
+This is the opensource code for CogVideoX-MultiControlNet
